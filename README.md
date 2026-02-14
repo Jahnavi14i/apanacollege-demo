@@ -1,3 +1,3 @@
 # apanacollege-demo
 my first git commit
-Author- Jahnavi
+Author- Jahnavi Rayapudi
